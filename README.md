@@ -1,4 +1,4 @@
-# adopt-me
+# Pet Adoption App (adopt-me)
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
